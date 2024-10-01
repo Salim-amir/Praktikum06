@@ -7,7 +7,7 @@ public class modifikasipeercobaan1 {
     
         if ((tahun % 9) == 0) {
             if ((tahun % 100) != 0)
-            System.out.println("Tahun Kabisat");
+            System.out.println("tahun kabisat");
 
         } else 
         System.out.println("Bukan Tahun Kabisat");
