@@ -13,16 +13,16 @@ public class latihan1 {
 
         if (bil1 > bil2) {
             if (bil1 > bil3)
-            System.out.println("Bilangan 1 adalah Bilangan Terbesar");
+            System.out.println("Bilangan " + bil1 + " adalah Bilangan Terbesar");
             else 
-            System.out.println("Bilangan 3 adalah Bilangan Terbesar");
+            System.out.println("Bilangan " + bil3 + " adalah Bilangan Terbesar");
         }
         
         else if (bil2 > bil1) {
             if (bil2 > bil3)
-            System.out.println("Bilangan 2 adalah Bilangan Terbesar");
+            System.out.println("Bilangan " + bil2 + " adalah Bilangan Terbesar");
             else
-            System.out.println("Bilangan 3 adalah Bilangan Terbesar");
+            System.out.println("Bilangan " + bil3 + " adalah Bilangan Terbesar");
         }
         
 
