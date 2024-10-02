@@ -5,7 +5,7 @@ public static void main(String[] args) {
     String merk, kategori;
     int harga, ukuran;
         System.out.println("-----------------------------");
-        System.out.println("======= KATEGORI BUKU =======");
+        System.out.println("======== MERK SEPATU ========");
         System.out.println("-----------------------------");
         System.out.println("1.Converse \n2.Skecher \n3.Nike");
 
